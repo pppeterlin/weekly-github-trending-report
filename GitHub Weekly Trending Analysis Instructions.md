@@ -67,7 +67,7 @@
 # 📊 GitHub Weekly Trending — 個人追蹤倉庫
 
 > 每週從 [GitHub Trending](https://trendshift.io/github-trending-repositories) 精選與數據工程、AI Agent、生物科技相關的高價值項目。
-
+> 每週一凌晨 03:10 前更新（Asia/Taipei，UTC+8）。
 ---
 
 ## 🔥 本週精選（YYYY-MM-DD）
@@ -101,5 +101,5 @@
 ```
 git add reports/YYYY-MM-DD.md README.md
 git commit -m “Weekly Report: YYYY-MM-DD”
-git push origin master
+git push origin main
 ```
