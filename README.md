@@ -5,22 +5,22 @@
 
 ---
 
-## 🔥 本週精選（2026-04-27）
+## 🔥 本週精選（2026-05-07）
 
 | 推薦分數 | 項目 | 分類 | 一句話亮點 |
 | :--- | :--- | :--- | :--- |
-| 9.8 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | Agent / MCP 【領域精選】 | MCP + 向量語義搜索讓整個代碼庫成為 Claude Code 的永久上下文。 |
-| 9.5 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Memory/RAG 【領域精選】 | 全模態 RAG 框架，統一處理文字、表格、圖片、音訊、影片。 |
-| 9.3 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Agent 框架 | 官方多 Agent 框架，MCP 原生支援 + 生產級護欄，持續穩健成長。 |
-| 9.0 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Agent 框架 | 59.3k stars 微軟官方 AI Agent 入門課程，12 堂課全覆蓋。 |
-| 8.8 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 數據工程 【領域精選】 | 開源 LLM 工程平台，可觀測性 + Evals + Prompt 管理一體化。 |
-| 8.5 | [trycua/cua](https://github.com/trycua/cua) | Agent 框架 | Computer-Use Agent 開源基礎設施，沙箱 + SDK + 基準測試。 |
-| 8.3 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 數據工程 【領域精選】 | 統一元數據平台，數據發現 + 血緣 + 治理全鏈路覆蓋。 |
-| 8.0 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Agent 框架 | HuggingFace 開源 ML 工程師 Agent，自動讀論文、訓練模型。 |
-| 7.8 | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | AI 基礎設施 【領域精選】 | DeepSeek 高效 MoE 專家並行通訊庫，大規模訓練底層加速。 |
-| 7.5 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | AI 基礎設施 【領域精選】 | FP8 精細粒度縮放 GEMM 核心，生物大模型推論加速利器。 |
+| 9.6 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | Agent / MCP 【領域精選】 | MCP 協議直連 n8n，讓 Claude/Cursor 在對話中直接建構自動化工作流。 |
+| 9.5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Agent 框架 | 本週最火的 Claude 多 Agent 編排平台，原生支援 swarm 部署與自動化工作流。 |
+| 9.3 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Memory/RAG 【領域精選】 | 無向量推理式 RAG，打破傳統 embedding 限制，SimpleQA 達 95%。 |
+| 9.1 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Memory/RAG 【領域精選】 | 本地深度研究引擎，支援所有 LLM 後端，RAG + 搜尋平台整合。 |
+| 9.0 | [simstudioai/sim](https://github.com/simstudioai/sim) | Agent 框架 | 可視化 AI Agent 編排平台，支援自部署，適合打造數據工程自動化流水線。 |
+| 8.8 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 數據工程 【領域精選】 | 長時域 Agent 增量計算引擎，為 RAG/知識圖譜提供持續更新基礎設施。 |
+| 8.7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Agent / MCP 【領域精選】 | AI Coding Agent 上下文窗口優化工具，工具輸出壓縮 98%，支援 14 平台。 |
+| 8.5 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Agent / 數據工程 | Rust 打造的 DeepSeek 終端 Coding Agent，輕量高效，可整合進數據工程腳本流。 |
+| 8.4 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | 數據工程 / Biotech 【高優先】 | 表格數據基礎模型，對生物信息學結構化數據分析具有革命性潛力。 |
+| 8.2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Agent 框架 | 多 Agent LLM 金融交易框架，69k stars，Agent 協作架構值得借鑑。 |
 
-> 📄 [查看完整報告](reports/2026-04-27.md)
+> 📄 [查看完整報告](reports/2026-05-07.md)
 
 ---
 
@@ -30,5 +30,6 @@
 
 ## 📚 近期週報
 
-- [2026-04-27](reports/2026-04-27.md)（本週）
+- [2026-05-07](reports/2026-05-07.md)（本週）
+- [2026-04-27](reports/2026-04-27.md)
 - [2026-04-20](reports/2026-04-20.md)
