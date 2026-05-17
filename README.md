@@ -5,22 +5,22 @@
 
 ---
 
-## 🔥 本週精選（2026-05-07）
+## 🔥 本週精選（2026-05-18）
 
 | 推薦分數 | 項目 | 分類 | 一句話亮點 |
 | :--- | :--- | :--- | :--- |
-| 9.6 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | Agent / MCP 【領域精選】 | MCP 協議直連 n8n，讓 Claude/Cursor 在對話中直接建構自動化工作流。 |
-| 9.5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Agent 框架 | 本週最火的 Claude 多 Agent 編排平台，原生支援 swarm 部署與自動化工作流。 |
-| 9.3 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Memory/RAG 【領域精選】 | 無向量推理式 RAG，打破傳統 embedding 限制，SimpleQA 達 95%。 |
-| 9.1 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Memory/RAG 【領域精選】 | 本地深度研究引擎，支援所有 LLM 後端，RAG + 搜尋平台整合。 |
-| 9.0 | [simstudioai/sim](https://github.com/simstudioai/sim) | Agent 框架 | 可視化 AI Agent 編排平台，支援自部署，適合打造數據工程自動化流水線。 |
-| 8.8 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 數據工程 【領域精選】 | 長時域 Agent 增量計算引擎，為 RAG/知識圖譜提供持續更新基礎設施。 |
-| 8.7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Agent / MCP 【領域精選】 | AI Coding Agent 上下文窗口優化工具，工具輸出壓縮 98%，支援 14 平台。 |
-| 8.5 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Agent / 數據工程 | Rust 打造的 DeepSeek 終端 Coding Agent，輕量高效，可整合進數據工程腳本流。 |
-| 8.4 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | 數據工程 / Biotech 【高優先】 | 表格數據基礎模型，對生物信息學結構化數據分析具有革命性潛力。 |
-| 8.2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Agent 框架 | 多 Agent LLM 金融交易框架，69k stars，Agent 協作架構值得借鑑。 |
+| 9.4 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | Memory/RAG | 為 Coding Agent 設計、基於真實基準的持久記憶層。 |
+| 9.2 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | Agent 框架 | 字節跳動開源的多模態桌面 Agent 棧，整合視覺模型與 GUI 操作。 |
+| 9.0 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | Agent / MCP 【領域精選】 | MCP 協議直連 n8n，連續多週上榜，Agent + 工作流標配。 |
+| 8.8 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 數據工程 【領域精選】 | 雲原生 Metrics/Logs 採集 Agent，本週爆增 5.8k star。 |
+| 8.7 | [obra/superpowers](https://github.com/obra/superpowers) | Agent / Skills | 190k stars Agent Skills 框架，定義生產級 Agent 開發方法學。 |
+| 8.6 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 數據工程 / Finance 【領域精選】 | 「金融市場語言」基礎模型，時間序列數據工程新典範。 |
+| 8.5 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Agent 框架 | 港大團隊開源的 Agent-Native CLI 集線器，統一接入任意軟體。 |
+| 8.4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Agent / Biotech 【高優先】 | 科研、生物、工程、金融四領域 Ready-to-use Skill 庫。 |
+| 8.2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Memory/RAG 【領域精選】 | 預索引程式碼知識圖譜，為 Claude Code 大幅降低 token 用量。 |
+| 8.0 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Biotech / Sensing | WiFi 訊號做生命體徵監測，無需攝影機，潛在數位醫療新範式。 |
 
-> 📄 [查看完整報告](reports/2026-05-07.md)
+> 📄 [查看完整報告](reports/2026-05-18.md)
 
 ---
 
@@ -30,6 +30,6 @@
 
 ## 📚 近期週報
 
-- [2026-05-07](reports/2026-05-07.md)（本週）
+- [2026-05-18](reports/2026-05-18.md)（本週）
+- [2026-05-07](reports/2026-05-07.md)
 - [2026-04-27](reports/2026-04-27.md)
-- [2026-04-20](reports/2026-04-20.md)
