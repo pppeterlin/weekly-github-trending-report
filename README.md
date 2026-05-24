@@ -5,22 +5,22 @@
 
 ---
 
-## 🔥 本週精選（2026-05-18）
+## 🔥 本週精選（2026-05-25）
 
 | 推薦分數 | 項目 | 分類 | 一句話亮點 |
 | :--- | :--- | :--- | :--- |
-| 9.4 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | Memory/RAG | 為 Coding Agent 設計、基於真實基準的持久記憶層。 |
-| 9.2 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | Agent 框架 | 字節跳動開源的多模態桌面 Agent 棧，整合視覺模型與 GUI 操作。 |
-| 9.0 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | Agent / MCP 【領域精選】 | MCP 協議直連 n8n，連續多週上榜，Agent + 工作流標配。 |
-| 8.8 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 數據工程 【領域精選】 | 雲原生 Metrics/Logs 採集 Agent，本週爆增 5.8k star。 |
-| 8.7 | [obra/superpowers](https://github.com/obra/superpowers) | Agent / Skills | 190k stars Agent Skills 框架，定義生產級 Agent 開發方法學。 |
-| 8.6 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 數據工程 / Finance 【領域精選】 | 「金融市場語言」基礎模型，時間序列數據工程新典範。 |
-| 8.5 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Agent 框架 | 港大團隊開源的 Agent-Native CLI 集線器，統一接入任意軟體。 |
-| 8.4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Agent / Biotech 【高優先】 | 科研、生物、工程、金融四領域 Ready-to-use Skill 庫。 |
-| 8.2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Memory/RAG 【領域精選】 | 預索引程式碼知識圖譜，為 Claude Code 大幅降低 token 用量。 |
-| 8.0 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Biotech / Sensing | WiFi 訊號做生命體徵監測，無需攝影機，潛在數位醫療新範式。 |
+| 9.5 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Memory/RAG + Data | 預索引的本地 Code Knowledge Graph，為 Claude Code 大幅降低 token 與 tool call。 |
+| 9.3 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | Memory/RAG 【領域精選】 | 為 Coding Agent 設計的持久記憶層，是 Memosyne 概念的直接對標。 |
+| 9.2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Biotech + Agent 【高優先】 | 科研、生物、工程、金融四領域 Ready-to-use Skill 庫。 |
+| 8.7 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Agent 框架 | 港大團隊主打「讓所有軟體 Agent-Native」的 CLI 集線器。 |
+| 8.5 | [obra/superpowers](https://github.com/obra/superpowers) | Agent 【領域精選】 | Agentic Skills 框架與軟體開發方法學，社群成熟度高。 |
+| 8.4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Data / LLM Infra 【領域精選】 | CLI Proxy，攔截 dev 指令把 LLM token 用量砍 60–90%。 |
+| 8.3 | [earendil-works/pi](https://github.com/earendil-works/pi) | Agent 【領域精選】 | Coding Agent CLI + Unified LLM API + TUI/Web UI 三件套。 |
+| 8.0 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | Memory/RAG | 把任何程式碼/文件變成可互動探索的知識圖譜。 |
+| 7.8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Biotech / Sensing | WiFi 訊號做生命體徵監測，數位醫療延伸題材。 |
+| 7.5 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Agent | Private、Simple、Powerful 的個人超級智能 Agent。 |
 
-> 📄 [查看完整報告](reports/2026-05-18.md)
+> 📄 [查看完整報告](reports/2026-05-25.md)
 
 ---
 
@@ -30,6 +30,6 @@
 
 ## 📚 近期週報
 
-- [2026-05-18](reports/2026-05-18.md)（本週）
+- [2026-05-25](reports/2026-05-25.md)（本週）
+- [2026-05-18](reports/2026-05-18.md)
 - [2026-05-07](reports/2026-05-07.md)
-- [2026-04-27](reports/2026-04-27.md)
